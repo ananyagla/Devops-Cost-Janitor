@@ -1,0 +1,4 @@
+- Port 22 open to 0.0.0.0/0 is insecure for production.
+- Delete mode intentionally skips Protected=true resources.
+- LocalStack behavior differs slightly from real AWS.
+- Cost estimates are approximate static values.
